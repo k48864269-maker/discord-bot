@@ -1,5 +1,5 @@
-import discord
 import os
+import discord
 from discord.ext import commands
 
 TOKEN = os.getenv("MTUyNDQzOTkyNTYxNTg4NjU1Nw.Golajf.zQIADQDCbD3Cm3kLIz5fftIsMyKtjoFbM_u_pg")
